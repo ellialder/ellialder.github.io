@@ -1,4 +1,4 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Đây là blog cá nhân của tôi
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
