@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Elliot Alderson # add your name
 author-img: elliot-alderson.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
+social-twitter: ellialdero # add your Twitter handle
 social-facebook: ellialdero # add your Facebook handle
 social-github: ellialdero # add your Github handle
 social-linkedin: ellialdero # add your Linkedin handle
