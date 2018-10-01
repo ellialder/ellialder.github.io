@@ -3,7 +3,7 @@ layout: post
 title: "Vim Editor -Shortcut!"
 date: 2018-10-01 13:32:20 +0700
 description: Vim Editor Shortcut # Add post description (optional)
-img: vim-editor.jpg # Add image post (optional)
+img: vim-editor-shortcut.jpg # Add image post (optional)
 tags: [Vim, Shortcut] # add tag
 ---
 # Cơ bản
