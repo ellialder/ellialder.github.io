@@ -3,7 +3,7 @@ layout: post
 title: Markdown Cheatsheet
 date: 2018-10-01 00:00:00 +0300
 description: Learn markdown cheatsheet # Add post description (optional)
-img: markdown-cheatsheet.png # Add image post (optional)
+img: markdow-cheatsheet.png # Add image post (optional)
 tags: [Markdown, Cheatsheet] # add tag
 ---
 #Headers:
