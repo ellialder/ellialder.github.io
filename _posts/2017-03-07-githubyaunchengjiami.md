@@ -2,7 +2,7 @@
 layout: blog
 istop: true
 title: "GitHub như một hệ thống điều khiển phiên bản riêng tư tư nhân hóa kho lưu trữ từ xa"
-background-image: image/github-pro.jpg
+background-image: assets/img/github-pro.jpg
 date:  2017-03-07
 category: git
 tags:
@@ -11,7 +11,6 @@ tags:
 - encfs
 - gpg
 - git-remote-gcryp
-- sshfs
 ---
  
 ## Mục đích
