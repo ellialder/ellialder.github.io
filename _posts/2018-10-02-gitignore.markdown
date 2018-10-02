@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title: Bất quy tắc cho git và thêm quy tắc cho .gitignore
 date: 2017-09-12 13:32:20 +0300
