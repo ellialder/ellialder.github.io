@@ -3,7 +3,7 @@ layout: blog
 istop: true
 title: "GitHub như một hệ thống điều khiển phiên bản riêng tư tư nhân hóa kho lưu trữ từ xa"
 background-image: assets/img/github-pro.jpg
-date:  2017-03-07
+date:  2018-10-02 10:00:00 +0700
 category: git
 tags:
 - github
