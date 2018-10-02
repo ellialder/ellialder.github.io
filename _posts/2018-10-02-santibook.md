@@ -1,15 +1,16 @@
 ---
-layout: blog
+layout: post
 background-image: three-body.jpg
 title:  "Các tác phẩm hoàn chỉnh của sự sống vĩnh hằng sau cái chết, một số suy nghĩ cá nhân"
 date:   2018-10-02 00:00:00 +0700
-tags:
-- Three body
-- rừng tối
-- Cái chết
-- Liu Cixin
-- Gương mặt  
-- Tomoko
+tags: [
+Three body
+ rừng tối
+ Cái chết
+ Liu Cixin
+ Gương mặt  
+ Tomoko]
+
 ---
  
   
