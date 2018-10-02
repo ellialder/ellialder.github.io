@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Bất quy tắc cho git và thêm quy tắc cho .gitignore
-date: 2018-10-02 00:00:00 +0700
+date: 2018-10-02 00:00:00 +0300
 description: Gitignore
 img: gitignore.png
 tags:[github, git,gitignore, Git bỏ qua các quy tắc]
 ---
+
+
 
 # Nhận ra nhu cầu
 Trong git nhập nếu bạn muốn bỏ qua một tập tin hoặc thư mục, bạn không muốn tập tin này hoặc thư mục vào kho, bạn có thể sử dụng các tập tin sửa đổi trong phương pháp thư mục gốc .gitignore (nếu không, bạn cần phải tự tạo ra tập tin này cho mình). Mỗi dòng của tệp này chứa một quy tắc phù hợp như:
