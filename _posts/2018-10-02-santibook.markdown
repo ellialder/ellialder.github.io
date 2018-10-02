@@ -1,16 +1,10 @@
 ---
 layout: post
-title: Các tác phẩm hoàn chỉnh của sự sống vĩnh hằng sau cái chết, một số suy nghĩ cá nhân
+title: Sự sống vĩnh hằng sau cái chết. Suy ngẫm!
 date: 2018-10-02 20:00:00 +0700
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: three-body.jpg # Add image post (optional)
-tags: [
-Three body
- rừng tối
- Cái chết
- Liu Cixin
- Gương mặt  
- Tomoko] # add tag
+tags: [Review, Book] # add tag
 ---
  
   
