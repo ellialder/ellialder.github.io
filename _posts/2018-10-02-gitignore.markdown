@@ -1,10 +1,12 @@
 ---
+---
 layout: post
 title: Bất quy tắc cho git và thêm quy tắc cho .gitignore
-date: 2018-10-02 00:00:00 +0300
-description: Gitignore
-img: gitignore.png
-tags:[github, git,gitignore, Git bỏ qua các quy tắc]
+date: 2017-09-12 13:32:20 +0300
+description: Gitignore. # Add post description (optional)
+img: gitignore.png # Add image post (optional)
+fig-caption: three-body.jpg # Add figcaption (optional)
+tags: [github, git,gitignore, Git bỏ qua các quy tắc]
 ---
 
 
