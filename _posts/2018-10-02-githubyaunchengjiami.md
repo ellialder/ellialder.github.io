@@ -2,7 +2,7 @@
 layout: post
 title: How I Rest From Work
 date: 2018-10-03 13:32:20 +0300
-description: GitHub - kho lưu trữ cá nhân (optional)
+description: Github
 img: github-pro.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [github, git-crypt, encfs, gpg, git-remote-gcryp]
