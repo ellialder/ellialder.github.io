@@ -1,6 +1,5 @@
 ---
 layout: blog
-istop: true
 title: "Git bỏ qua các quy tắc và  các quy tắc đúng cho .gitignore"
 background-image: git.jpg
 date:  2018-10-02 23:45:56
