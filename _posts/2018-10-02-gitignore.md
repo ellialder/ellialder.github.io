@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "Git bỏ qua các quy tắc và  các quy tắc đúng cho .gitignore"
-background-image: git.jpg
+title: "Bất quy tắc cho git và thêm quy tắc cho .gitignore"
+img: git.jpg
 date:  2018-10-02 00:00:00
-tags:
-- github
-- git
-- gitignore
-- Git bỏ qua các quy tắc
+tags:[github, git,gitignore, Git bỏ qua các quy tắc]
 ---
 
 # Nhận ra nhu cầu
