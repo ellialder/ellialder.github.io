@@ -1,17 +1,12 @@
 ---
-layout: blog
-istop: true
-title: GitHub như một hệ thống điều khiển phiên bản riêng tư tư nhân hóa kho lưu trữ từ xa
-img: github-pro.jpg
-date:  2018-10-02 10:00:00 +0700
-category: git
-tags:[github
-,git-crypt
-,encfs
-,gpg
-,git-remote-gcryp]
+layout: post
+title: How I Rest From Work
+date: 2018-10-03 13:32:20 +0300
+description: GitHub - kho lưu trữ cá nhân (optional)
+img: github-pro.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [github, git-crypt, encfs, gpg, git-remote-gcryp]
 ---
- 
 ## Mục đích
  
  
