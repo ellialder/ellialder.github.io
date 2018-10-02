@@ -2,7 +2,7 @@
 layout: blog
 book: true
 background: purple
-background-image: assets/img/three-body.jpg
+background-image: three-body.jpg
 title:  "Các tác phẩm hoàn chỉnh của sự sống vĩnh hằng sau cái chết, một số suy nghĩ cá nhân"
 date:   2018-10-02 00:00:00 +0700
 category: Sách
