@@ -2,12 +2,12 @@
 layout: blog
 book: true
 background: purple
-background-image: image/three-body.jpg
-title:  "Sau khi đọc ba thân, ba thân II, rừng tối, ba thân III, các tác phẩm hoàn chỉnh của sự sống đời đời của cái chết, một số suy nghĩ và suy nghĩ"
-date:   2017-06-20
+background-image: assets/img/three-body.jpg
+title:  "Các tác phẩm hoàn chỉnh của sự sống vĩnh hằng sau cái chết, một số suy nghĩ cá nhân"
+date:   2018-10-02
 category: Sách
 tags:
-- Ba cơ thể 
+- Three body
 - rừng tối
 - Cái chết
 - Liu Cixin
@@ -16,7 +16,7 @@ tags:
 ---
  
   
-#### Sau khi quan sát ba cơ thể, một số trong chúng vẫn chưa hoàn thành.
+#### Sau khi đọc xong "The three body problem", một số trong chúng vẫn chưa hoàn thành.
  
   Đặc biệt là vào một đêm mưa như vậy, nó có vẻ như một cơn mưa nhỏ, và những suy nghĩ rối tung và rối tung.
 
