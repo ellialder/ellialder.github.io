@@ -81,7 +81,6 @@ gpg --import secretkey.asc
 ###### Tải code xuống
 ```
 git clone gcrypt::git@github.com:liberxue/liberxue.git test2 // Test2 là git clone văn bản cục bộ
-件名
 ```
 ###### Đồng thời chỉ định khóa nào cần mã hóa
 
