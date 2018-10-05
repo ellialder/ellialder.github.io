@@ -2,6 +2,7 @@
 layout: post
 title: Operators in Liquid
 date: 2018-10-04 13:32:20 +0300
+description: operators in liquid
 img: liquid-markdown.jpg # Add image post (optional)
 tags: [liquid]
 ---
