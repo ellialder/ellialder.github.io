@@ -11,11 +11,11 @@ Liquid có thể được phân loại thành **Object**, **Tags**, và **Filter
 
 # Objects
 - Các đối tượng cho biết nơi hiển thị nội dung trên một trang. Đối tượng và tên được biểu thị bằng dấu ngoặc kép {{ và }}
-``` Đầu vào
+```Input
 {{ page.title }}
 ```
 
-``` Đầu ra
+```Output
 Introduction
 ```
 > Trong trường hợp này, Liquid sẽ hiển thị nội dung của một đối tượng được gọi là `page.title` và đối tượng này chứa văn bản **Introduction**
@@ -24,13 +24,13 @@ Introduction
  - Tags tạo logic và luồng điều khiển cho các mẫu. Chúng được biểu thị bằng dấu ngoặc nhọn và dấu phần trăm: {% và %}
  - Đánh dấu được sử dụng trong tag không tạo ra bất kỳ văn bản hiển thị nào. Điều này có nghĩa là bạn có thể **gán biến** và ***tạo điều kiện*** và **vòng lặp** mà không hiển thị bất kỳ logic nào trên trang.
  
- ``` Đầu vào
+ ```Input
  {% if user %}
     Hello {{ user.name}}
  {% endif %}
  ```
 
- ``` Đầu ra
+ ``` Output
  Hello Adam!
  ```
 
